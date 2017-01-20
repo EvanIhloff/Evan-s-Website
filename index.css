@@ -3,4 +3,7 @@ a {
 		color:green; 
 	}
 a:hover {color:#0000FF;}
+body {
 	background-image: url("images/title.png");
+ 	background-color: #cccccc;
+}
