@@ -3,4 +3,4 @@ a {
 		color:green; 
 	}
 a:hover {color:#0000FF;}
-	background-image: url{ images/title.png};
+	background-image: url("images/title.png");
