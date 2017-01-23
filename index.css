@@ -2,6 +2,9 @@ body{background-color:#4289f4;}
 a {
 		color:green; 
 	}
+p {
+	font-family: "Arial" , sans-serif;
+}
 a:hover {color:#0000FF;}
 body {
 	background-image: url("images/title.png");
