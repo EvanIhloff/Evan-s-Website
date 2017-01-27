@@ -1,8 +1,9 @@
 body{background-color:#4289f4;}
 a 
-{color:green; }
+{color:"green";}
 p 
 {font-family: "Arial" , sans-serif;}
 a:hover {color:#0000FF;}
 body
 {background-image: url("http://powellong.com/data/wallpapers/98/WDF_1415186.jpg");}
+h1 {color:"white";}
