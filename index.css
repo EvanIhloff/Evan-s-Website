@@ -14,4 +14,15 @@ p {
     outline-color:red;
 }
 p.dotted {outline-style: dotted;}
+li {
+    display: inline;
+}
+li {
+    float: left;
+}
 
+a {
+    display: block;
+    padding: 8px;
+    background-color: #4286f4;
+}
