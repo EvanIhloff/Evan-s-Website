@@ -12,24 +12,3 @@ a:hover {color:#0000FF;}
 body
 {background-image: url("http://powellong.com/data/wallpapers/98/WDF_1415186.jpg");}
 * {color:white;}
-
-#hifive li {
-    background-color: #ff1000;
-    border: 5px;
-    color: black;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    list-style:none;
-}
-div {
-    padding: 10px;
-    border: 5px solid blue;
-    margin: 0;}
-p {
-    border: 1px solid black;
-    outline-color:red;
-}
-p.dotted {outline-style: dotted;}
