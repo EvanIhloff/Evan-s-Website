@@ -18,3 +18,8 @@ body
     font-size: 16px;
     list-style:none;
 }
+div {
+    padding: 10px;
+    border: 5px solid blue;
+    margin: 0; 
+}
